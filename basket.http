@@ -1,0 +1,8 @@
+### Получение списка ID товаров в корзине
+GET http://localhost:8080/store/order/get
+
+### добавление ID - товаров в корзину
+GET http://localhost:8080/store/order/add?item=1&item=2&item=3
+
+### добавление ID - товаров в корзину
+GET http://localhost:8080/store/order/add?item=4&item=5&item=6
